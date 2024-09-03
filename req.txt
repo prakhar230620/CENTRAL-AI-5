@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+nltk
+pyttsx3
+SpeechRecognition
+python-dotenv
+cryptography

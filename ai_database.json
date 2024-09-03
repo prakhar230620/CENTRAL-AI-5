@@ -1,0 +1,10 @@
+{
+  "6ed39e34-025e-431d-9b21-3da69cc42f09": {
+    "name": "llama3",
+    "type": "Bot",
+    "details": {
+      "description": "A simple application that allows users to interact with a conversational chatbot powered by Groq. This application is designed to get users up and running quickly with building a chatbot.\nFeatures\n\nConversational Interface: Provides a simple interface where users can input text and receive responses from the chatbot.\n\nShort Responses: The chatbot replies with very short and concise answers, keeping interactions brief and to the point.\n\nGroq Integration: Utilizes the Groq API to generate responses, leveraging the power of the Llama3-70b-8192 model.",
+      "file_path": "C:/Users/prakh/OneDrive/Desktop/llama3.py"
+    }
+  }
+}
